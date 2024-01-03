@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "teste de id editado",
+      "email": "id 1",
+      "company": "meu id é um"
+    },
+    {
+      "id": 2,
+      "name": "asdfasdf editado 2x",
+      "email": "asdfasdf editado 2x",
+      "company": "asdfasdf editado 2x"
+    }
+  ]
+}
